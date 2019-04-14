@@ -3,10 +3,33 @@
     <title>PSIU</title>
     <link href="https://psiu-track.github.io/feed.xml" rel="self" />
     <link href="https://psiu-track.github.io" />
-    <updated>1970-01-01T00:00:00+00:00</updated>
+    <updated>2019-04-14T03:54:19+01:00</updated>
     <author>
         <name>el3</name>
     </author>
     <id>https://psiu-track.github.io</id>
 
+    <entry>
+        <title>Call for papers</title>
+        <author>
+            <name>el3</name>
+        </author>
+        <link href="https://psiu-track.github.io/call-for-papers.html"/>
+        <id>https://psiu-track.github.io/call-for-papers.html</id>
+
+        <updated>2019-04-14T03:52:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    lorem ipsumhfdklg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>lorem ipsum</li>
+<li>hfdklg</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
 </feed>

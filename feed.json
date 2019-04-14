@@ -9,5 +9,19 @@
         "name": "el3"
     },
     "items": [
+        {
+            "id": "https://psiu-track.github.io/call-for-papers.html",
+            "url": "https://psiu-track.github.io/call-for-papers.html",
+            "title": "Call for papers",
+            "summary": "lorem ipsumhfdklg",
+            "content_html": "<ul>\n<li>lorem ipsum</li>\n<li>hfdklg</li>\n</ul>",
+            "author": {
+                "name": "el3"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-14T03:52:06+01:00",
+            "date_modified": "2019-04-14T03:52:06+01:00"
+        }
     ]
 }
